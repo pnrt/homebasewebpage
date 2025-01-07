@@ -42,5 +42,5 @@ For further details, please check the [LICENSE](LICENSE) file in the repository.
 ## Contact
 Feel free to reach out to me if you have any questions or suggestions:
 - **Email:** pankaj.enggr@gmail.com
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/pankaj-kumar-rout)
-- **GitHub:** [Your GitHub](https://github.com/pnrt)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/pankaj-kumar-rout)
+- **GitHub:** [GitHub](https://github.com/pnrt)
