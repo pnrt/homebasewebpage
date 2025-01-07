@@ -35,13 +35,15 @@ The Android app for this project is private and not publicly available.
 ### 📷 App Previews
 Below are screenshots of the Tenant Rent Management Android App:
 
-<img src="placeholder1.png" alt="App Screenshot 1" width="300"/>
+<p align="center">
+  <img src="placeholder1.png" alt="App Screenshot 1" width="300" style="display: inline-block;" />
+  <img src="placeholder2.png" alt="App Screenshot 2" width="300" style="display: inline-block;" />
+</p>
 
-<img src="placeholder2.png" alt="App Screenshot 2" width="300"/>
-
-<img src="placeholder3.png" alt="App Screenshot 3" width="300"/>
-
-<img src="placeholder4.png" alt="App Screenshot 4" width="300"/>
+<p align="center">
+  <img src="placeholder3.png" alt="App Screenshot 3" width="300" style="display: inline-block;" />
+  <img src="placeholder4.png" alt="App Screenshot 4" width="300" style="display: inline-block;" />
+</p>
 
 ---
 
