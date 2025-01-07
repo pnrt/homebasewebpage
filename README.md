@@ -21,7 +21,7 @@ Welcome to my portfolio website! This is where I showcase my skills, projects, a
 ---
 
 ## 🌐 How to View the Website
-1. Visit the live website: [My Portfolio Website](https://pnrt.github.io/folio/)
+1. Visit the live website: [My Portfolio Website](https://pnrt.github.io/homebasewebpage/)
 2. Explore the various sections, including **Home**, **About**, **Projects**, and **Contact**.
 
 ---
@@ -30,11 +30,11 @@ Welcome to my portfolio website! This is where I showcase my skills, projects, a
 If you'd like to run this project locally:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/pnrt/folio.git
+    git clone https://github.com/pnrt/homebasewebpage.git
     ```
 2. Navigate to the project folder:
     ```bash
-    cd folio
+    cd homebasewebpage
     ```
 3. Open the `index.html` file in your browser.
 
