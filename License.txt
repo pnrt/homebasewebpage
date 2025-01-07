@@ -1,0 +1,24 @@
+# Restricted Use License
+
+Copyright (c) 2025 PANKAJ KUMAR ROUT
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this project and associated documentation files (the "Project"), to use the Project for personal, non-commercial purposes only, subject to the following restrictions:
+
+1. **Redistribution**:
+   - Redistribution of the Project, in whole or in part, is not permitted without prior written permission from the copyright owner.
+
+2. **Modification**:
+   - Modification of the Project is allowed for personal use only.
+   - Modified versions of the Project must not be distributed, sold, or made publicly available without explicit permission.
+
+3. **Commercial Use**:
+   - The Project or any derivative works may not be used for commercial purposes without explicit written consent from the copyright owner.
+
+4. **Attribution**:
+   - The original author must be credited in any personal use or modifications of the Project.
+
+5. **Liability**:
+   - The Project is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+   - In no event shall the copyright owner be liable for any claim, damages, or other liability arising from or in connection with the Project.
+
+For permissions beyond the scope of this license, please contact [your-pankaj.enggr@gmail.com].
