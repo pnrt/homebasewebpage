@@ -1,42 +1,57 @@
-# 🌟 Portfolio Website
+# 🏠 Tenant Rent Management Web Page
 
-Welcome to my portfolio website! This is where I showcase my skills, projects, and experiences. The website is hosted on **GitHub Pages** and serves as an interactive platform to learn more about my work.
+Welcome to the Tenant Rent Management Web Page! This platform provides an overview of the tenant rent management system. The **web page is publicly accessible**, showcasing the project details and features. However, the **Android app is private** and can only be used upon special request.
 
 ---
 
 ## ✨ Features
-- 📱 Responsive design for all devices.
-- 💻 Showcasing completed projects with descriptions and links.
-- 📬 Contact form to get in touch with me.
-- 🎨 Interactive and user-friendly experience.
+- 💼 **Manage Tenants**: Add, update, and view tenant details.
+- 📊 **Track Payments**: Record and track rental payments with pending amounts.
+- 🔌 **Electricity Billing**: Automatically calculate electricity charges based on meter readings.
+- 📝 **Statements**: Generate detailed statements for tenants showing payment history and pending dues.
+- 🔍 **Search & Filter**: Quickly find tenant details and payment records.
 
 ---
 
 ## 🛠️ Technologies Used
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **GitHub Pages** for hosting
+- **Kotlin** for backend development
+- **Room Database** for data storage
+- **HTML, CSS, and JavaScript** for the frontend
+- **Jetpack Compose** for modern UI integration
 
 ---
 
-## 🌐 How to View the Website
-1. Visit the live website: [My Portfolio Website](https://pnrt.github.io/homebasewebpage/)
-2. Explore the various sections, including **Home**, **About**, **Projects**, and **Contact**.
+## 🌐 How to Access the Web Page
+- The web page is public and can be accessed at: [Tenant Rent Management Web Page](https://pnrt.github.io/homebasewebpage/)
+- Explore the features, documentation, and app previews.
 
 ---
 
-## ⚙️ Local Setup
-If you'd like to run this project locally:
+## 📱 App Access
+The Android app for this project is private and not publicly available.
+- **Special Access**: Usage of the app is restricted and can only be granted upon special request.
+- If interested, contact the owner with valid reasons for access.
+
+### 📷 App Previews
+Below are screenshots of the Tenant Rent Management Android App:
+
+![App Screenshot 1](https://via.placeholder.com/300x600.png?text=App+Screenshot+1)
+
+![App Screenshot 2](https://via.placeholder.com/300x600.png?text=App+Screenshot+2)
+
+![App Screenshot 3](https://via.placeholder.com/300x600.png?text=App+Screenshot+3)
+
+---
+
+## ⚙️ Local Setup for Development
+If you are authorized to work on this project:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/pnrt/homebasewebpage.git
+    git clone https://github.com/<your-github-username>/tenant-rent-management.git
     ```
-2. Navigate to the project folder:
-    ```bash
-    cd homebasewebpage
-    ```
-3. Open the `index.html` file in your browser.
+2. Open the project in your preferred IDE.
+3. Set up your environment variables for secure access.
+4. Build and run the web page locally on your system.
 
 ---
 
@@ -44,19 +59,17 @@ If you'd like to run this project locally:
 This project is licensed under the **Restricted Use License**. Please read the terms below:
 
 ### **Restricted Use License:**
-- The source code and assets of this project are for personal use and portfolio purposes only.
-- Redistribution, modification, or commercial use of this project or its components is not permitted without explicit written consent from the author.
+- The source code and assets of this project are for personal use only.
+- Redistribution, modification, or commercial use of this project or its components is strictly prohibited without explicit written consent from the owner.
 
 For further details, please check the [LICENSE](LICENSE) file in the repository.
 
 ---
 
 ## 📧 Contact
-Feel free to reach out to me if you have any questions or suggestions:
+For any inquiries or special access requests, contact the owner directly:
 - **Email:** pankaj.enggr@gmail.com
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/pankaj-kumar-rout)
-- **GitHub:** [GitHub](https://github.com/pnrt)
-- **X:** [X](https://X.com/_pnrt)
+
 ---
 
-Thank you for visiting my portfolio! 🌟
+Thank you for respecting the privacy and policies of this project! 🏡
