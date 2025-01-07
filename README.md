@@ -51,7 +51,7 @@ Below are screenshots of the Tenant Rent Management Android App:
 If you are authorized to work on this project:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/<your-github-username>/tenant-rent-management.git
+    git clone https://github.com/pnrt/xxxx.git
     ```
 2. Open the project in your preferred IDE.
 3. Set up your environment variables for secure access.
